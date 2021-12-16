@@ -1,0 +1,8 @@
+@import '../../Styles/Shared/Color.scss';
+@import '../../Styles/Shared/Font-defination.scss';
+
+.home-container{
+    font-size: $extra-large-font-size;
+    border: 1px solid $common-border;
+    background-color: $background-primary;
+}

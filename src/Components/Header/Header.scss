@@ -1,6 +1,4 @@
-$common-border: green;
-$text-importent: red;
-$text-description: goldenrod;
+@import './../../Styles/Shared/Color.scss';
 
 .first-box{
     border: 1px solid $common-border;
