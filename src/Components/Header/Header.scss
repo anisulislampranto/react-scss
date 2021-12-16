@@ -1,0 +1,20 @@
+$common-border: green;
+$text-importent: red;
+$text-description: goldenrod;
+
+.first-box{
+    border: 1px solid $common-border;
+    color: $text-importent;
+}
+.second-box{
+    border: 1px solid $common-border;
+    color: $text-description;
+}
+.third-box{
+    border: 1px solid $common-border;
+    color: $text-importent;
+}
+.fourth-box{
+    border: 1px solid $common-border;
+    color: $text-description;
+}
